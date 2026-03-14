@@ -1,0 +1,19 @@
+# Virtual environments
+env/
+fake_news_env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Large files (CSV) - keep if within limits, but good to have here
+# *.csv
